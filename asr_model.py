@@ -67,8 +67,8 @@ class ASRNet():
         #n_filters = [128, 256, 512,512]
         #n_filtersizes = [65, 33, 17,  9]
         
-        n_filters = [32,  64,  96, 96]
-        n_filtersizes = [30, 20, 10,  5]
+        n_filters = [32,  48,  64, 64]
+        n_filtersizes = [16, 10, 5,  5]
         
         #n_filters = [10, 20, 40, 40, 40, 40, 40, 40]
         #n_filtersizes = [30, 20, 15, 10, 10, 10, 10, 10]
